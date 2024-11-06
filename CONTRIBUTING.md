@@ -2,7 +2,7 @@
 
 Thank you for considering making contributions to `arkworks-rs/snark`!
 
-Contributing to this repo can be done in several forms, such as participating in discussion or proposing code changes. 
+Contributing to this repo can be done in several forms, such as participating in discussions or proposing code changes. 
 To ensure a smooth workflow for all contributors, the following general procedure for contributing has been established:
 
 1) Either open or find an issue you'd like to help with
@@ -17,8 +17,8 @@ To ensure a smooth workflow for all contributors, the following general procedur
     * Be sure to include a relevant change log entry in the Pending section of CHANGELOG.md (see file for log format)
         * If the change is breaking, we may add migration instructions.
 
-Note that for very small or clear problems (such as typos), or well isolated improvements, it is not required to an open issue to submit a PR. 
-But be aware that for more complex problems/features touching multiple parts of the codebase, if a PR is opened before an adequate design discussion has taken place in a github issue, that PR runs a larger likelihood of being rejected.
+Note that for very small or clear problems (such as typos), or well-isolated improvements, it is not required to an open issue to submit a PR. 
+But be aware that for more complex problems/features touching multiple parts of the codebase, if a PR is opened before an adequate design discussion has taken place in a GitHub issue, that PR runs a larger likelihood of being rejected.
 
 Looking for a good place to start contributing? How about checking out some good first issues
 
@@ -30,7 +30,7 @@ All other branches should be assumed to be miscellaneous feature development bra
 All downstream users of the library should be using tagged versions of the library pulled from cargo.
 
 ## How to work on a fork
-Please skip this section if you're familiar with contributing to opensource github projects.
+Please skip this section if you're familiar with contributing to open-source GitHub projects.
 
 First fork the repo from the github UI, and clone it locally.
 Then in the repo, you want to add the repo you forked from as a new remote. You do this as:
